@@ -15,3 +15,7 @@ She want to explore the world. </br>
 La bouteille tombe 
 _Jenny_ s'éparpille sur le sol.  
 Mais que se passe-t-il ? 
+
+He didn't understand why the city had disappeared.
+His phone had no network.
+He was alone. /this a firt story
